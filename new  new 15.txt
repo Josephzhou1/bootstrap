@@ -1,0 +1,6 @@
+* Serial 11 Commands
+
+--all files  uploaded
+-- CFG_PRINTF() used
+---still doing the fellowing job:  Testms command,  printout  format width control  and  CFG_PRINTF ()  in serial.h
+
